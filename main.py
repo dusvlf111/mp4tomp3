@@ -90,6 +90,7 @@ if __name__ == "__main__":
     
     print('실패한 항목')
     for i in fale_files:
-        print(i)
+        print(i) 
+        
         
  
